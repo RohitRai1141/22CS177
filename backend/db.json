@@ -1,0 +1,100 @@
+{
+  "urls": [
+    {
+      "id": "1756201695315",
+      "url": "https://www.example.com/very-long-path/page-name?with=parameters",
+      "shortcode": "3ccc7c",
+      "createdAt": "2025-08-26T09:48:15.315Z",
+      "expiry": "2025-08-26T10:18:15.315Z",
+      "clicks": [
+        {
+          "timestamp": "2025-08-26T09:48:41.955Z",
+          "referrer": "Direct",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "ip": "::1"
+        }
+      ]
+    },
+    {
+      "id": "1756201748672",
+      "url": "https://www.amazon.com/shopping-cart/items",
+      "shortcode": "shop",
+      "createdAt": "2025-08-26T09:49:08.672Z",
+      "expiry": "2025-08-26T10:19:08.672Z",
+      "clicks": [
+        {
+          "timestamp": "2025-08-26T09:49:09.952Z",
+          "referrer": "Direct",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "ip": "::1"
+        }
+      ]
+    },
+    {
+      "id": "1756202643260",
+      "url": "https://www.amazon.com/shopping-cart/items",
+      "shortcode": "Help",
+      "createdAt": "2025-08-26T10:04:03.260Z",
+      "expiry": "2025-08-26T10:34:03.260Z",
+      "clicks": [
+        {
+          "timestamp": "2025-08-26T10:05:11.050Z",
+          "referrer": "Direct",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "ip": "::1"
+        },
+        {
+          "timestamp": "2025-08-26T10:05:24.151Z",
+          "referrer": "Direct",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "ip": "::1"
+        }
+      ]
+    },
+    {
+      "id": "1756202732003",
+      "url": "https://www.amazon.com/shopping-cart/items",
+      "shortcode": "94cba4",
+      "createdAt": "2025-08-26T10:05:32.003Z",
+      "expiry": "2025-08-26T10:35:32.003Z",
+      "clicks": [
+        {
+          "timestamp": "2025-08-26T10:05:33.650Z",
+          "referrer": "Direct",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "ip": "::1"
+        }
+      ]
+    },
+    {
+      "id": "1756202784266",
+      "url": "https://identity.getpostman.com/browser-auth/success",
+      "shortcode": "36b863",
+      "createdAt": "2025-08-26T10:06:24.266Z",
+      "expiry": "2025-08-26T10:36:24.266Z",
+      "clicks": [
+        {
+          "timestamp": "2025-08-26T10:06:26.142Z",
+          "referrer": "Direct",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "ip": "::1"
+        }
+      ]
+    },
+    {
+      "id": "1756203260316",
+      "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQcpTJxLCRtqltxzRxwZTWVJsvW",
+      "shortcode": "mail",
+      "createdAt": "2025-08-26T10:14:20.316Z",
+      "expiry": "2025-08-26T10:44:20.316Z",
+      "clicks": [
+        {
+          "timestamp": "2025-08-26T10:14:23.471Z",
+          "referrer": "Direct",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "ip": "::1"
+        }
+      ]
+    }
+  ]
+}
